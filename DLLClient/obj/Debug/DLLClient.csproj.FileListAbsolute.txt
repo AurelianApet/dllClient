@@ -1,0 +1,10 @@
+H:\freelance\DLLClient\DLLClient\bin\Debug\DLLClient.exe.config
+H:\freelance\DLLClient\DLLClient\bin\Debug\DLLClient.exe
+H:\freelance\DLLClient\DLLClient\bin\Debug\DLLClient.pdb
+H:\freelance\DLLClient\DLLClient\obj\Debug\DLLClient.csprojResolveAssemblyReference.cache
+H:\freelance\DLLClient\DLLClient\obj\Debug\DLLClient.Form1.resources
+H:\freelance\DLLClient\DLLClient\obj\Debug\DLLClient.Properties.Resources.resources
+H:\freelance\DLLClient\DLLClient\obj\Debug\DLLClient.csproj.GenerateResource.cache
+H:\freelance\DLLClient\DLLClient\obj\Debug\DLLClient.csproj.CoreCompileInputs.cache
+H:\freelance\DLLClient\DLLClient\obj\Debug\DLLClient.exe
+H:\freelance\DLLClient\DLLClient\obj\Debug\DLLClient.pdb

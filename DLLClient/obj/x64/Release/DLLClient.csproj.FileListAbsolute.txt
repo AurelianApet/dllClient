@@ -1,0 +1,20 @@
+H:\freelance\DLLClient\DLLClient\bin\x64\Release\DLLClient.exe.config
+H:\freelance\DLLClient\DLLClient\bin\x64\Release\DLLClient.exe
+H:\freelance\DLLClient\DLLClient\bin\x64\Release\DLLClient.pdb
+H:\freelance\DLLClient\DLLClient\obj\x64\Release\DLLClient.csprojResolveAssemblyReference.cache
+H:\freelance\DLLClient\DLLClient\obj\x64\Release\DLLClient.Form1.resources
+H:\freelance\DLLClient\DLLClient\obj\x64\Release\DLLClient.Properties.Resources.resources
+H:\freelance\DLLClient\DLLClient\obj\x64\Release\DLLClient.csproj.GenerateResource.cache
+H:\freelance\DLLClient\DLLClient\obj\x64\Release\DLLClient.csproj.CoreCompileInputs.cache
+H:\freelance\DLLClient\DLLClient\obj\x64\Release\DLLClient.exe
+H:\freelance\DLLClient\DLLClient\obj\x64\Release\DLLClient.pdb
+H:\Dragon Projects\opencv\DLLClient\DLLClient\obj\x64\Release\DLLClient.csprojResolveAssemblyReference.cache
+H:\Dragon Projects\opencv\DLLClient\DLLClient\obj\x64\Release\DLLClient.Form1.resources
+H:\Dragon Projects\opencv\DLLClient\DLLClient\obj\x64\Release\DLLClient.Properties.Resources.resources
+H:\Dragon Projects\opencv\DLLClient\DLLClient\obj\x64\Release\DLLClient.csproj.GenerateResource.cache
+H:\Dragon Projects\opencv\DLLClient\DLLClient\obj\x64\Release\DLLClient.csproj.CoreCompileInputs.cache
+H:\Dragon Projects\opencv\DLLClient\DLLClient\obj\x64\Release\DLLClient.exe
+H:\Dragon Projects\opencv\DLLClient\DLLClient\obj\x64\Release\DLLClient.pdb
+H:\Dragon Projects\opencv\DLLClient\DLLClient\bin\x64\Release\DLLClient.exe.config
+H:\Dragon Projects\opencv\DLLClient\DLLClient\bin\x64\Release\DLLClient.exe
+H:\Dragon Projects\opencv\DLLClient\DLLClient\bin\x64\Release\DLLClient.pdb
